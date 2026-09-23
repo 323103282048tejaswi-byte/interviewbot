@@ -1,0 +1,6 @@
+{
+  "name": "InterviewBot – AI Mock Interviewer",
+  "description": "An AI-powered mock interview partner demonstrating NLP preprocessing, keyword extraction, semantic relevance, and performance analytics for academic demonstration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
